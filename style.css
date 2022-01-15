@@ -160,7 +160,7 @@ img {
   transform: translateX(-40%);
   height: 200px;
   width: 200px;
-  background: url(../images/shape-1.png) no-repeat;
+  background: url(images/shape-1.png) no-repeat;
   background-size: cover;
   z-index: -1;
 }
@@ -173,7 +173,7 @@ img {
   transform: translate(40%, 30%);
   height: 200px;
   width: 200px;
-  background: url(../images/shape-1.png) no-repeat;
+  background: url(images/shape-1.png) no-repeat;
   background-size: cover;
   z-index: -1;
 }
